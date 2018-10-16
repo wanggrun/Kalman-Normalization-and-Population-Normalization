@@ -6,3 +6,6 @@ Kalman Normalization (KN) is a normalization technique that is able to achieve e
 
 As its counterparts, Group Normalization (GN) is unable to achieve excellent performance in large-batch training, and Batch Normalization (BN) has poor performance in small-batch traning.
 
+## Update
+
+- 2018/10/16: The code of image classification and a pretrained model on ImageNet are released.
