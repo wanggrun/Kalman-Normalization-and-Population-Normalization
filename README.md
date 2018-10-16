@@ -1,4 +1,4 @@
-This is the code of our NIPS 2018 Paper: "Kalman Normalization" and its extension "Populatin Normalization"
+This is the code of our NIPS 2018 Paper: "Kalman Normalization" and its extension "Populatin Normalization".
 
 # Kalman Normalization
 
