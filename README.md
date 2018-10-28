@@ -8,7 +8,7 @@ As its counterparts, Group Normalization (GN) fails to achieve excellent perform
 
 We have the the following observations:
 
-$KN_{large batch}$ = KN (small batch) > 
+KN (large batch) = KN (small batch) > BN (large batch) > GN (large batch) = GN (small batch) > BN (small batch)
 
 ## Update
 
